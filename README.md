@@ -84,7 +84,7 @@
   </p>
 
   <ul>
-    <li>Oceanfront with sandy beach just steps away</li>
+    <li>Oceanfront with sandy beach close by</li>
     <li>Elevated 30 ft above sea level for added safety and views</li>
     <li>Sparkling heated & cooling tile pool</li>
     <li>Third-level deck with spectacular panoramic views</li>
