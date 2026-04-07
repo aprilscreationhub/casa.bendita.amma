@@ -1,1 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>House for Sale</title>
+</head>
+<body>
+  <h1>Beautiful Home for Sale</h1>
+  <h2>$350,000</h2>
 
+  <img src="house.jpg" width="500">
+
+  <p><strong>Location:</strong> Euless, TX</p>
+  <p><strong>3 Bed | 2 Bath | 1,800 sqft</strong></p>
+
+  <h3>Description</h3>
+  <p>Fully updated home with spacious backyard and modern kitchen.</p>
+
+  <h3>Contact</h3>
+  <p>Email: your@email.com</p>
+</body>
+</html>
