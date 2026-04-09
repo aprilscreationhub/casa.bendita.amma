@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -161,7 +160,7 @@
   </header>
 
   <div class="hero">
-    <img src="Frnt View 1.jpg" alt="Casa Bendita Amma front view">
+    <img src="Frnt View 1" alt="Casa Bendita Amma front view">
     <div class="hero-text">
       <h2>Rare Caribbean Oceanfront Opportunity</h2>
       <p>Unobstructed views, luxury finishes, and one of the last properties of its kind.</p>
@@ -180,28 +179,28 @@
     </div>
 
     <div class="gallery">
-      <img src="Frnt View 1.jpg" alt="Front View 1">
-      <img src="side view 2.jpg" alt="Side View 2">
-      <img src="Frnt Patio 3.jpg" alt="Front Patio 3">
-      <img src="kitchen 4.jpg" alt="Kitchen 4">
-      <img src="prmy rm 5.1.jpg" alt="Primary Room 5.1">
-      <img src="prmy rm 5.2.jpg" alt="Primary Room 5.2">
-      <img src="lvng rm 6.jpg" alt="Living Room 6">
-      <img src="prmy bthrm 7.jpg" alt="Primary Bathroom 7">
-      <img src="dwn strs 8.jpg" alt="Downstairs 8">
-      <img src="Btm Flr rm 9.jpg" alt="Bottom Floor Room 9">
-      <img src="btm flr bthrm 10.1.jpg" alt="Bottom Floor Bathroom 10.1">
-      <img src="btm flr bthrm 10.2.jpg" alt="Bottom Floor Bathroom 10.2">
-      <img src="top flr 11.1.jpg" alt="Top Floor 11.1">
-      <img src="top flr 11.2.jpg" alt="Top Floor 11.2">
-      <img src="top view 12.jpg" alt="Top View 12">
-      <img src="bk house view 13.jpg" alt="Back House View 13">
-      <img src="back balcony 14.jpg" alt="Back Balcony 14">
-      <img src="bck balcony 14.1.jpg" alt="Back Balcony 14.1">
-      <img src="bk platform 15.jpg" alt="Back Platform 15">
-      <img src="bk view 16.jpg" alt="Back View 16">
-      <img src="beach view 18.jpg" alt="Beach View 18">
-      <img src="coast line 19.jpg" alt="Coast Line 19">
+      <img src="Frnt View 1" alt="Front View 1">
+      <img src="side view 2" alt="Side View 2">
+      <img src="Frnt Patio 3" alt="Front Patio 3">
+      <img src="kitchen 4" alt="Kitchen 4">
+      <img src="prmy rm 5.1" alt="Primary Room 5.1">
+      <img src="prmy rm 5.2" alt="Primary Room 5.2">
+      <img src="lvng rm 6" alt="Living Room 6">
+      <img src="prmy bthrm 7" alt="Primary Bathroom 7">
+      <img src="dwn strs 8" alt="Downstairs 8">
+      <img src="Btm Flr rm 9" alt="Bottom Floor Room 9">
+      <img src="btm flr bthrm 10.1" alt="Bottom Floor Bathroom 10.1">
+      <img src="btm flr bthrm 10.2" alt="Bottom Floor Bathroom 10.2">
+      <img src="top flr 11.1" alt="Top Floor 11.1">
+      <img src="top flr 11.2" alt="Top Floor 11.2">
+      <img src="top view 12" alt="Top View 12">
+      <img src="bk house view 13" alt="Back House View 13">
+      <img src="back balcony 14" alt="Back Balcony 14">
+      <img src="bck balcony 14.1" alt="Back Balcony 14.1">
+      <img src="bk platform 15" alt="Back Platform 15">
+      <img src="bk view 16" alt="Back View 16">
+      <img src="beach view 18" alt="Beach View 18">
+      <img src="coast line 19" alt="Coast Line 19">
     </div>
 
     <h2>Property Highlights</h2>
