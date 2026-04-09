@@ -59,13 +59,13 @@
 .gallery {
   display: flex;
   flex-wrap: wrap;
-  gap: 15px;
+  gap: 10px;
   justify-content: center;
 }
 
 .gallery img {
-  width: 250px;
-  border-radius: 10px;
+  width: 200px;
+  border-radius: 5px;
   cursor: pointer;
   transition: 0.3s;
 }
