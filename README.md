@@ -77,9 +77,11 @@
   </div>
 
 <div class="gallery">
+  
   <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
   <img src="3rd Flr View 1" alt="Third Floor Views">
   <img src="house3.jpg" alt="Interior">
+  
   </div>
 
   <h2>Property Highlights</h2>
