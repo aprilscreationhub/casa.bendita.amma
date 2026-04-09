@@ -139,16 +139,17 @@
 <body>
 
 <header>
+  <h1>Casa Bendita Amma</h1>
+  <p>Oceanfront Luxury – Isla Mujeres, Mexico</p>
+</header>
+
   <div class="hero">
   <img src="Frnt View 1" alt="Casa Bendita Amma">
   <div class="hero-text">
     <h2>$1,500,000 USD</h2>
     <p>Oceanfront • Isla Mujeres</p>
   </div>
-</div>
-  <h1>Casa Bendita Amma</h1>
-  <p>Oceanfront Luxury – Isla Mujeres, Mexico</p>
-</header>
+</div
 
 <div class="container">
 
