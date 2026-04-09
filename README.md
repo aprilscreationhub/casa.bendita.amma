@@ -21,6 +21,13 @@
       margin: auto;
       background: white;
     }
+
+    .container {
+  padding: 20px;
+  max-width: 1100px; /* slightly wider */
+  margin: auto;
+  background: white;
+}
   
   gap: 15px;
 }
