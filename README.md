@@ -24,7 +24,7 @@
   
     .gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 15px;
 }
 
@@ -64,7 +64,7 @@
 }
 
 .gallery img {
-  width: 300px;
+  width: 200px;
   border-radius: 10px;
   cursor: pointer;
   transition: 0.3s;
