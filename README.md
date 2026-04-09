@@ -30,7 +30,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-    }
     .price {
       font-size: 28px;
       color: #0a4d68;
