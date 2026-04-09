@@ -113,12 +113,14 @@
   border-radius: 10px;
   .hero {
   position: relative;
+  width: 100%;
 }
 
 .hero img {
   width: 100%;
-  height: 200px;
+  height: 500px;
   object-fit: cover;
+  display: block;
 }
 
 .hero-text {
