@@ -71,7 +71,7 @@
   </div>
 
   <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
-  <img src="house2.jpg" alt="Pool area">
+  <img src="3rd Flr View 1" alt="Third Floor Views">
   <img src="house3.jpg" alt="Interior">
 
   <h2>Property Highlights</h2>
