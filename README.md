@@ -134,9 +134,9 @@
   <img src="bk house view 13" alt="bk house view 13">
   <img src="back balcony 14" alt="back balcony 14">
   <img src="back balcony 14.1" alt="back balcony 14.1">
-  <img src="bk platform 15" alt=bk platform 15">
-  <img src="bk view 16" alt=bk view 16">
-  <img src="bk view 2 17" alt=""bk view 2 17">
+  <img src="bk platform 15" alt="bk platform 15">
+  <img src="bk view 16" alt="bk view 16">
+  <img src="bk view 2 17" alt="bk view 2 17">
   <img src="beach view 18" alt="beach view 18">
   <img src="coast line 19" alt="coast line 19">
   
