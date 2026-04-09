@@ -70,7 +70,7 @@
     <div class="feature-box">3 Levels</div>
   </div>
 
-  <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom" style="max-width: 100%; height: auto;>
+  <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
   <img src="3rd Flr View 1" alt="Third Floor Views">
   <img src="house3.jpg" alt="Interior">
 
