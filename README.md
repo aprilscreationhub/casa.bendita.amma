@@ -22,9 +22,9 @@
       background: white;
     }
     img {
-      width: 100%;
-      border-radius: 10px;
-      margin-bottom: 15px;
+      width: 300px;
+      border-radius: auto;
+      margin-bottom: auto;
     }
     .price {
       font-size: 28px;
