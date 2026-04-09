@@ -111,6 +111,25 @@
   max-width: 90%;
   max-height: 90%;
   border-radius: 10px;
+  .hero {
+  position: relative;
+}
+
+.hero img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.hero-text {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  color: white;
+  background: rgba(0,0,0,0.5);
+  padding: 15px;
+  border-radius: 10px;
+}
 }
   </style>
 </head>
@@ -118,6 +137,13 @@
 <body>
 
 <header>
+  <div class="hero">
+  <img src="images/frnt-view-1.jpg" alt="Casa Bendita Amma">
+  <div class="hero-text">
+    <h2>$1,500,000 USD</h2>
+    <p>Oceanfront • Isla Mujeres</p>
+  </div>
+</div>
   <h1>Casa Bendita Amma</h1>
   <p>Oceanfront Luxury – Isla Mujeres, Mexico</p>
 </header>
