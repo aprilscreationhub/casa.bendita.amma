@@ -116,9 +116,29 @@
 
 <div class="gallery">
   
-  <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
-  <img src="3rd Flr View 1" alt="Third Floor Views">
-  <img src="house3.jpg" alt="Interior">
+  <img src="Frnt View 1" alt="Frnt View 1">
+  <img src="side view 2" alt="side view 2">
+  <img src="Frnt Patio 3" alt="Frnt Patio 3">
+  <img src="kitchen 4" alt="kitchen 4">
+  <img src="prmy rm 5.1" alt="prmy rm 5.1">
+  <img src="prmy rm 5.2" alt="prmy rm 5.2">
+  <img src="lvng rm 6" alt="lvng rm 6">
+  <img src="prmy bthrm 7" alt="prmy bthrm 7">
+  <img src="dwn strs 8" alt="dwn strs 8">
+  <img src="Btm Flr rm 9" alt="Btm Flr rm 9">
+  <img src="btm flr bthrm 10.1" alt="btm flr bthrm 10.1">
+  <img src="btm flr bthrm 10.2" alt="btm flr bthrm 10.2">
+  <img src="top flr 11.1" alt="top flr 11.1">
+  <img src="top flr 11.2" alt="top flr 11.2">
+  <img src="top view 12" alt="top view 12">
+  <img src="bk house view 13" alt="bk house view 13">
+  <img src="back balcony 14" alt="back balcony 14">
+  <img src="back balcony 14.1" alt="back balcony 14.1">
+  <img src="bk platform 15" alt=bk platform 15">
+  <img src="bk view 16" alt=bk view 16">
+  <img src="bk view 2 17" alt=""bk view 2 17">
+  <img src="beach view 18" alt="beach view 18">
+  <img src="coast line 19" alt="coast line 19">
   
   </div>
 
