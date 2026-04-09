@@ -30,6 +30,16 @@
   /*margin-left: auto;
   /*margin-right: auto;
 }
+    .gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 15px;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 10px;
+}
     .price {
       font-size: 28px;
       color: #0a4d68;
@@ -74,9 +84,11 @@
     <div class="feature-box">3 Levels</div>
   </div>
 
+<div class="gallery">
   <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
   <img src="3rd Flr View 1" alt="Third Floor Views">
   <img src="house3.jpg" alt="Interior">
+  </div>
 
   <h2>Property Highlights</h2>
   <p>
