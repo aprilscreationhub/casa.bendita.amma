@@ -22,7 +22,7 @@
       background: white;
     }
     img {
-  width: 100px;   /* 👈 change this number */
+  width: 200px;   /* 👈 change this number */
   max-width: 100%;
   border-radius: 10px;
   margin-bottom: 15px;
