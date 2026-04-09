@@ -21,14 +21,14 @@
       margin: auto;
       background: white;
     }
-  *  img {
-  *width: 200px;   /* 👈 change this number */
-  *max-width: 100%;
-  *border-radius: 10px;
-  *margin-bottom: 15px;
-  *display: block;
-  *margin-left: auto;
-  *margin-right: auto;
+ / *  img {
+  /*width: 200px;   /* 👈 change this number */
+  /*max-width: 100%;
+  /*border-radius: 10px;
+  /*margin-bottom: 15px;
+  /*display: block;
+  /*margin-left: auto;
+  /*margin-right: auto;
 }
     .price {
       font-size: 28px;
