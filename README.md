@@ -21,14 +21,14 @@
       margin: auto;
       background: white;
     }
-    img {
-  width: 200px;   /* 👈 change this number */
-  max-width: 100%;
-  border-radius: 10px;
-  margin-bottom: 15px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  *  img {
+  *width: 200px;   /* 👈 change this number */
+  *max-width: 100%;
+  *border-radius: 10px;
+  *margin-bottom: 15px;
+  *display: block;
+  *margin-left: auto;
+  *margin-right: auto;
 }
     .price {
       font-size: 28px;
@@ -74,7 +74,7 @@
     <div class="feature-box">3 Levels</div>
   </div>
 
-  <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">   <img src="3rd Flr View 1" alt="Third Floor Views">
+  <img src="Bottom Floor Bathroom" alt="Bottom Floor Bathroom">
   <img src="3rd Flr View 1" alt="Third Floor Views">
   <img src="house3.jpg" alt="Interior">
 
