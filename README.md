@@ -22,9 +22,6 @@
       background: white;
     }
   
-    .gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(175px, 1fr));
   gap: 15px;
 }
 
@@ -56,8 +53,23 @@
       margin-top: 20px;
     }
     /* Gallery images */
-.gallery {
-  display: flex;
+
+    .gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 15px;
+}
+
+.gallery img {
+  width: 100%;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.gallery img:hover {
+  transform: scale(1.03);
+}
   flex-wrap: wrap;
   gap: 10px;
   justify-content: center;
