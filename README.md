@@ -3,6 +3,9 @@
   <meta charset="UTF-8">
   <title>Casa Bendita Amma – Oceanfront Property</title>
   <style>
+    a {
+  display: none;
+}
     body {
       font-family: Arial, sans-serif;
       margin: 0;
