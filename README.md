@@ -22,7 +22,7 @@
       background: white;
     }
     img {
-      width: 50%;
+      width: 10%;
       border-radius: 10px;
       margin-bottom: 15px;
     }
