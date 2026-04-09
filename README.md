@@ -64,7 +64,7 @@
 }
 
 .gallery img {
-  width: 200px;
+  width: 250px;
   border-radius: 10px;
   cursor: pointer;
   transition: 0.3s;
