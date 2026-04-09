@@ -138,7 +138,7 @@
 
 <header>
   <div class="hero">
-  <img src="images/frnt-view-1.jpg" alt="Casa Bendita Amma">
+  <img src="Frnt View 1" alt="Casa Bendita Amma">
   <div class="hero-text">
     <h2>$1,500,000 USD</h2>
     <p>Oceanfront • Isla Mujeres</p>
