@@ -93,11 +93,14 @@
     }
 
     .gallery img {
-      width: 100%;
-      border-radius: 10px;
-      cursor: pointer;
-      transition: transform 0.3s ease;
-      display: block;
+  width: 100%;
+  height: 220px;        /* 🔑 forces same height */
+  object-fit: cover;    /* 🔑 crops nicely instead of stretching */
+  border-radius: 10px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+  display: block;
+}
     }
 
     .gallery img:hover {
