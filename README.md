@@ -21,7 +21,7 @@
       margin: auto;
       background: white;
     }
- / *  img {
+  /*  img {
   /*width: 200px;   /* 👈 change this number */
   /*max-width: 100%;
   /*border-radius: 10px;
