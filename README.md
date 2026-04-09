@@ -133,7 +133,7 @@
   <img src="top view 12" alt="top view 12">
   <img src="bk house view 13" alt="bk house view 13">
   <img src="back balcony 14" alt="back balcony 14">
-  <img src="back balcony 14.1" alt="back balcony 14.1">
+  <img src="bck balcony 14.1" alt="bck balcony 14.1">
   <img src="bk platform 15" alt="bk platform 15">
   <img src="bk view 16" alt="bk view 16">
   <img src="bk view 2 17" alt="bk view 2 17">
