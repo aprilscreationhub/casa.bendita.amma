@@ -184,7 +184,7 @@
       <img src="Frnt View 1" alt="Front View 1">
       <img src="side view 2" alt="Side View 2">
       <img src="Frnt Patio 3" alt="Front Patio 3">
-      <img src="kitchen 4" alt="Kitchen 4">
+      <img src="Kitchen pic" alt="Kitchen pic">
       <img src="prmy rm 5.1" alt="Primary Room 5.1">
       <img src="prmy rm 5.2" alt="Primary Room 5.2">
       <img src="lvng rm 6" alt="Living Room 6">
