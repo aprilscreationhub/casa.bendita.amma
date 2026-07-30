@@ -171,7 +171,7 @@
 
   <div class="container">
 
-    <div class="price">$1,500,000 USD</div>
+    <div class="price">$1,300,000 USD</div>
 
     <div class="features">
       <div class="feature-box">3 Bedrooms</div>
